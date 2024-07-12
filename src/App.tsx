@@ -77,7 +77,7 @@ function App() {
             </div>
           </div>
           <div>
-            <h2>2024</h2>
+            <h2>Santa Fe - Argentina - 2024</h2>
           </div>
         </div>
       </footer>
