@@ -4,7 +4,7 @@ import { TaskProvider } from "./context/TaskContext";
 import Logo from "./components/Logo";
 
 //ICONOS
-import { SiMongodb, SiTypescript, SiNestjs, SiTailwindcss } from "react-icons/si";
+import { SiMongodb, SiTypescript, SiNestjs, SiTailwindcss, SiVite } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { TiPlus } from "react-icons/ti";
 
@@ -44,6 +44,12 @@ function App() {
           <div className="flex justify-center gap-3 m-2">
             <div>
               <SiNestjs className="text-rose-600" />
+            </div>
+            <div>
+              <TiPlus />
+            </div>
+            <div>
+              <SiVite className="text-yellow-500" />
             </div>
             <div>
               <TiPlus />
